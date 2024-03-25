@@ -1,0 +1,95 @@
+Prompt 1
+
+Bir web geliştiricisi gibi hareket etmenizi istiyorum. 
+Bir web projesi kodlayacaksınız ve bunun için HTML, CSS ve JavaScript kullanacaksınız.
+Web sitesi responsive tasarıma sahip olacak yani farklı boyuttaki ekranlara uyumlu olarak çalışabilecek. 
+Teknik ayrıntılara girmeden önce anlamadığın bir şey var mı? Evet ya da hayır olacak cevapla lütfen.
+
+Prompt 2
+
+Öncelikle bu web sitesi için semantik yapıya sahip bir HTML taslağı oluşturur musun? 
+Bu taslak header,  main, nav, section, article, aside ve footer etiketlerini içersin. 
+Bu taslakta bu etiketlerin alanlarını renklendirip gösterir misin?
+
+Prompt 3
+
+Renklendirmeleri de gösterir misin?
+
+Prompt 4
+
+Taslak istediğim gibi oldu şimdi bunun üstünde düzenlemeler yapmanı istiyorum. 
+Öncelikle renklendirmeler için daha açık renkler kullanmanı istiyorum. 
+Sayfanın title ı ve header ında Galeri Web Sitesi yazsın. 
+Header ve footer kısımları biraz daha küçük olsun. 
+Navigation kısmında Anasayfa ve Görsel Oluştur isminde iki seçenek olsun ve Görsel Oluştur kısmında tıklandığında yeni bir sayfaya yönlendirsin. 
+Bu sayfa ile ilgili kısımları daha sonra gerçekleştirmeni isteyeceğim. 
+Bu bilgilere göre güncellemeleri yapar mısın
+
+Prompt 5
+
+Sayfa daha iyi duruyor fakat renkleri beğenmedim çok koyu olmayacak şekilde gri tonlarında bir renklendirme yapar mısın? 
+Ayrıca footer kısmının sayfanın en altında olmasını istiyorum. 
+Bu düzenlemeleri yapar mısın
+
+Prompt 6
+
+Temel kısımları tamamladık şimdi section kısmını düzenlemeni istiyorum. 
+Bu kısımda bir slider olsun istiyorum. 
+Bu sliderın sağ kısmında resim gösterebileceğim bir alan sol kısmında da bu resme ait açıklamayı gösterebileceğim bir alan olsun istiyorum. 
+Ayrıca sliderın sağ ve sol kısmında birer ok olsun ve bu oklar ile önceki ve sonraki resme geçiş yapılabilsin. 
+Buna göre gerekli düzenlemeleri yapar mısın
+
+Prompt 7
+
+Slider istediğim gibi olmuş fakat çok fazla yer kaplıyor boyutunu biraz küçültür müsün? 
+Ayrıca sayfayı yukarı kaydırdığımda footer da yukarı kayıyor. 
+Footer kısmının sayfanın en altında kalmasını istiyorum. 
+Buna göre düzenlemeleri yapar mısın
+
+Prompt 8
+
+Şimdi de aside kısmı için güncellemeler yapmanı istiyorum. 
+Öncelikle bu kısım ile footer çakışıyor, bunu engeller misin? 
+Ardından bu kısımdaki başlığı ve içindeki paragrafı ekranda ortalar mısın? 
+Bu kısımların içeriğini sonradan ben dolduracağım. 
+
+Prompt 9
+
+Bu sayfa için istediklerim şimdilik tamamlandı. 
+Şimdi Görsel Oluştur sayfasını oluşturmanı istiyorum. 
+Bu sayfa Anasayfa ile aynı HTML yapısına sahip olsun istiyorum. 
+Bu sayfadaki tek fark section kısmında slider yerine metin girişi yapılabilecek bir olan olsun istiyorum. 
+Buna göre bu sayfayı oluşturur musun
+
+Prompt 10
+
+Şimdi bu alana kullanıcının metin girebileceği bir alan ekler misin? 
+Bu alanın içerisinde ipucu olarak 'Promptu İngilizce giriniz.' yazsın. 
+Metin girilen alanın altında bir tane 'Oluştur' butonu olsun. 
+Daha sonrasında bu kısmı girilen metine göre resim oluşturmak için kullanacağız. 
+Buna göre sayfayı günceller misin
+
+Prompt 11
+
+Metin girişini gerçekleştirebiliyorum şimdi girilen bu metinin görselinin oluşturulmasını ve görselin bu section kısmında gösterilmesini istiyorum. 
+Butonun altında resim gözükecek şekilde bu düzenlemeleri yapar mısın? 
+Resim oluşturma işlemini Stable Duffision ile gerçekleştirelecek. 
+Bu işlem için kullanılacak kod şu şekilde: 
+Bu bilgilere göre gerekli güncellemeleri yapar mısın
+
+Prompt 12
+
+Resmin boyutunu biraz küçültür müsün
+
+Prompt 13
+
+Son olarak bu sitede göstermek üzere kullanacağım örnek resimler için beş tane görsel promptu oluşturmanı istiyorum. 
+Propmtların dili İngilizce olsun.
+
+Görsel Promptları 
+
+"A happy family having a picnic in the park."
+"A breathtaking sunset over the ocean horizon."
+"An adventurous traveler exploring ancient ruins."
+"A cozy fireplace in a cabin surrounded by snowy mountains."
+"A vibrant cityscape with bustling streets and colorful lights."

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeri Web Sitesi</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Galeri Web Sitesi</h1>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="index.html">Anasayfa</a></li>
+                <li><a href="generate_image.html">Görsel Oluştur</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <section id="slider">
+            <div class="container">
+                <div class="slider-wrapper">
+                    <div class="slider">
+                        <div class="slide">
+                            <img src="/images/image1.jpeg" alt="Image 1">
+                            <div class="caption">A happy family having a picnic in the park.</div>
+                        </div>
+                        <div class="slide">
+                            <img src="/images/image2.jpeg" alt="Image 1">
+                            <div class="caption">A breathtaking sunset over the ocean horizon.</div>
+                        </div>
+                        <div class="slide">
+                            <img src="/images/image3.jpeg" alt="Image 1">
+                            <div class="caption">An adventurous traveler exploring ancient ruins.</div>
+                        </div>
+                        <div class="slide">
+                            <img src="/images/image4.jpeg" alt="Image 2">
+                            <div class="caption">A cozy fireplace in a cabin surrounded by snowy mountains.</div>
+                        </div>
+                        <div class="slide">
+                            <img src="/images/image5.jpeg" alt="Image 3">
+                            <div class="caption">A vibrant cityscape with bustling streets and colorful lights.</div>
+                        </div>
+                    </div>
+                    <a class="prev" onclick="prevSlide()">&#10094;</a>
+                    <a class="next" onclick="nextSlide()">&#10095;</a>
+                </div>
+            </div>
+        </section>
+        <aside>
+            <div class="container">
+                <h2>Kullanılan Teknolojiler</h2>
+                <p>Bu web sitesi ChatGPT kullanılarak oluşturulmuştur. Site içerisindeki görseller Stable Duffision ile
+                    oluşturulmuştur. Kendi promptlarınızı girerek görsel oluşturmak için Görsel Oluştur'a
+                    tıklayabilirsiniz.</p>
+            </div>
+        </aside>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Telif Hakkı © 2024 Web Sitesi. Tüm hakları saklıdır.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

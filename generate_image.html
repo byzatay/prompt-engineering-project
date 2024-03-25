@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Görsel Oluştur</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Galeri Web Sitesi</h1>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="index.html">Anasayfa</a></li>
+                <li><a href="generate_image.html">Görsel Oluştur</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <section id="content">
+            <div class="container">
+                <h2>Görsel Oluştur</h2>
+                <input type="text" id="input" placeholder="Promptu İngilizce giriniz...">
+                <button onclick="generate()">Oluştur</button>
+                <div id="imageField" style="margin-top: 10px;"></div>
+            </div>
+        </section>
+        <aside>
+            <div class="container">
+                <h2>Görsel Oluşturma</h2>
+                <p>Yukarıdaki alandan prompt girerek görsel oluşturabilirsiniz. Görselin oluşması birkaç saniye
+                    sürebiliyor, sabırlı olmayı ve promptlarınızı İngilizce girmeyi unutmayın. :)</p>
+            </div>
+        </aside>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Telif Hakkı © 2024 Web Sitesi. Tüm hakları saklıdır.</p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
